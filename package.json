@@ -1,6 +1,6 @@
 {
   "name": "@mobilejazz/prettier-config",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Prettier config for Mobile Jazz projects",
   "author": "Mobile Jazz",
   "license": "Apache-2.0",
