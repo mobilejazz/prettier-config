@@ -20,7 +20,7 @@ Usage is based on [Sharing configurations](https://prettier.io/docs/en/configura
     "prettier": "@mobilejazz/prettier-config",
     ```
 
-### Aplying Overrides
+### Applying Overrides
 
 For legacy projects it's OK to override the `tabWidth` configuration; **no other option should be overriden**.
 
